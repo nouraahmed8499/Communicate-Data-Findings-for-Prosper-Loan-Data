@@ -1,11 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Data Exploration of Prosper Loan Data
+## by Nourhan Ahmed
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
+> Prosper is America’s first peer-to-peer lending marketplace, with more than 2 million members and over $2,000,000,000 in funded loans. Here we use the data available to the public (last updated on March 11th, 2014) from Prosper, which contains all the listings and loans ever created with 81 variables on each loan/listing, to do some data analysis. 
 
 ## Summary of Findings
 
